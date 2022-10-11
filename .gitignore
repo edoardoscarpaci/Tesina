@@ -1,0 +1,5 @@
+data/*
+graph
+w2v_model
+*.py
+*.npy
